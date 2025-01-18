@@ -1,2 +1,3 @@
 # github
-my first repository
+My first repository
+author abhishek behera
